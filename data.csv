@@ -1,0 +1,19 @@
+Country Name,Country Code,Year,CO2 Emissions (million tons),Notes
+China,CHN,2000,3700,Rapid growth due to industrialization
+China,CHN,2015,10200,
+China,CHN,2022,11400,
+United States,USA,2000,6000,Gradual decline since 2005
+United States,USA,2015,5400,
+United States,USA,2022,5100,
+India,IND,2000,1000,Steady increase from fossil fuels
+India,IND,2015,2200,
+India,IND,2022,2900,
+Russia,RUS,1990,2400,Post-USSR collapse decline
+Russia,RUS,2015,1800,
+Russia,RUS,2022,1900,
+Japan,JPN,2013,1400,Post-Fukushima energy shift
+Japan,JPN,2015,1300,
+Japan,JPN,2022,1100,
+Germany,DEU,2000,1000,Energiewende policy reductions
+Germany,DEU,2015,800,
+Germany,DEU,2022,670,
